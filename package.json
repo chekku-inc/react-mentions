@@ -1,6 +1,6 @@
 {
-  "name": "react-mentions",
-  "version": "4.4.7",
+  "name": "@chekku-inc/react-mentions",
+  "version": "4.4.7-rc1",
   "description": "React mentions input",
   "main": "dist/react-mentions.cjs.js",
   "module": "dist/react-mentions.esm.js",
@@ -20,7 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/signavio/react-mentions.git"
+    "url": "https://github.com/chekku-inc/react-mentions.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "react",
